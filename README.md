@@ -26,6 +26,7 @@ It delivers actionable insights on sales, profitability, and customer behavior t
 
 📁 Project Structure
 superstore-powerbi-business-analysis/
+
 │
 ├── dashboards/
 │   └── superstore_powerbi_analysis.pbix
